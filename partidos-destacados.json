@@ -27,27 +27,29 @@
     "logosStyle": "border-radius: 8px;"
   },
   {
-    "day": "6",
+    "day": "7",
     "month": "MARZO",
     "title": "LIGA CHILENA",
-    "subtitle": "DEPORTES CONCE VS ÑUBLENSE",
+    "subtitle": "AUDAX ITALIANO VS COLO-COLO",
+    "image": "https://fmpulso.cl/wp-content/uploads/2017/04/pelota-de-futbol-9716.jpg",
+    "sport": "FÚTBOL",
+    "time": "18:00 HRS",
+    "logos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Insignia_Audax_Italiano.png/960px-Insignia_Audax_Italiano.png",
+      "img/equipos/Escudo-Colo-Colo.webp"
+    ]
+  },
+  {
+    "day": "7",
+    "month": "MARZO",
+    "title": "LIGA CHILENA",
+    "subtitle": "O'HIGGINS VS UNIVERSIDAD CATÓLICA",
     "image": "https://fmpulso.cl/wp-content/uploads/2017/04/pelota-de-futbol-9716.jpg",
     "sport": "FÚTBOL",
     "time": "20:30 HRS",
     "logos": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Escudo_Deportes_Concepci%C3%B3n.svg/960px-Escudo_Deportes_Concepci%C3%B3n.svg.png",
-      "https://upload.wikimedia.org/wikipedia/commons/9/9f/%C3%91ublense.png"
+      "https://www.campeonatochileno.cl/wp-content/uploads/2025/01/ohiggins.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Escudo_Club_Deportivo_Universidad_Cat%C3%B3lica.svg/960px-Escudo_Club_Deportivo_Universidad_Cat%C3%B3lica.svg.png"
     ]
-  },
-  {
-    "day": "28",
-    "month": "MARZO",
-    "title": "UFC 300",
-    "subtitle": "EVENTO PRINCIPAL",
-    "image": "img/mma-jaula.jpg",
-    "sport": "MMA",
-    "time": "23:00 HRS",
-    "logos": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/UFC_logo.svg/1200px-UFC_logo.svg.png",
-    "logosStyle": "width: auto; padding: 10px 20px; border-radius: 8px;"
   }
 ]
