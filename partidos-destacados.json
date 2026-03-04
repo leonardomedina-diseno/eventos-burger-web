@@ -13,31 +13,31 @@
     ]
   },
   {
-    "day": "18",
+    "day": "6",
     "month": "MARZO",
-    "title": "NBA PLAYOFFS",
-    "subtitle": "LAKERS VS WARRIORS",
-    "image": "https://fmpulso.cl/wp-content/uploads/2017/04/pelota-de-futbol-9716.jpg",
-    "sport": "BÁSQUETBOL",
-    "time": "21:00 HRS",
-    "logos": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/1200px-Los_Angeles_Lakers_logo.svg.png",
-      "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png"
-    ]
-  },
-  {
-    "day": "22",
-    "month": "MARZO",
-    "title": "ATP MASTERS 1000",
-    "subtitle": "ALCARAZ VS MEDVEDEV",
-    "image": "img/tenis.jpg",
+    "title": "MASTER DE INDIAN WELLS",
+    "subtitle": "TABILO VS JODAR",
+    "image": "https://journey.app/blog/wp-content/uploads/2021/11/reglas-deportivas_Tenis_.jpg",
     "sport": "TENIS",
-    "time": "14:00 HRS",
+    "time": "20:00 HRS",
     "logos": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png",
-      "https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1280px-Bandera_de_Espa%C3%B1a.svg.png"
     ],
     "logosStyle": "border-radius: 8px;"
+  },
+  {
+    "day": "6",
+    "month": "MARZO",
+    "title": "LIGA CHILENA",
+    "subtitle": "DEPORTES CONCE VS ÑUBLENSE",
+    "image": "https://fmpulso.cl/wp-content/uploads/2017/04/pelota-de-futbol-9716.jpg",
+    "sport": "FÚTBOL",
+    "time": "20:30 HRS",
+    "logos": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Escudo_Deportes_Concepci%C3%B3n.svg/960px-Escudo_Deportes_Concepci%C3%B3n.svg.png",
+      "https://upload.wikimedia.org/wikipedia/commons/9/9f/%C3%91ublense.png"
+    ]
   },
   {
     "day": "28",
