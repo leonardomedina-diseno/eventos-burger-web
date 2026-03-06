@@ -1,17 +1,5 @@
 [
   {
-    "day": "04",
-    "month": "MAR",
-    "categoryClass": "comedy",
-    "categoryName": "Stand-Up Comedy",
-    "title": "Open Mic San Pedro",
-    "description": "¡Tu dosis semanal de risas garantizadas. Stand-up comedy en vivo todos los miércoles.",
-    "time": "20:00 hrs",
-    "location": "Local San Pedro",
-    "price": "Entrada Liberada",
-    "delay": "0.1s"
-  },
-  {
     "day": "05",
     "month": "MAR",
     "categoryClass": "music",
@@ -32,6 +20,18 @@
     "description": "Transpop, que combina lírica nostálgica, atmósferas oníricas y ritmos clásicos del pop",
     "time": "20:00 hrs",
     "location": "Local Diagonal",
+    "price": "Entrada Liberada",
+    "delay": "0.1s"
+  },
+  {
+    "day": "06",
+    "month": "MAR",
+    "categoryClass": "music",
+    "categoryName": "Terraza",
+    "title": "karaoke",
+    "description": "Karaoke y Dj",
+    "time": "12:00 hrs",
+    "location": "Local San Pedro",
     "price": "Entrada Liberada",
     "delay": "0.1s"
   }
