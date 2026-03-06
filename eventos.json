@@ -1,10 +1,10 @@
 [
   {
-    "day": "05",
+    "day": "06",
     "month": "MAR",
     "categoryClass": "music",
-    "categoryName": "Burger Stage",
-    "title": "Tributo The Cranberries",
+    "categoryName": "terraza",
+    "title": "karaoke y dj",
     "description": "El Burger Stage se enciende con el mejor tributo, a cargo de The Promises.",
     "time": "20:00 hrs",
     "location": "Local Diagonal",
@@ -24,14 +24,14 @@
     "delay": "0.1s"
   },
   {
-    "day": "06",
+    "day": "08",
     "month": "MAR",
-    "categoryClass": "music",
-    "categoryName": "Terraza",
-    "title": "karaoke",
-    "description": "Karaoke y Dj",
-    "time": "12:00 hrs",
-    "location": "Local San Pedro",
+    "categoryClass": "cuentos",
+    "categoryName": "Burger Stage",
+    "title": "Cuenta cuentos",
+    "description": "Mientras tú te relajas y disfrutas algo rico, los peques se divierten con cuentos, dinámicas y juegos que potencian su imaginación.",
+    "time": "13:00 hrs",
+    "location": "Local Diagonal",
     "price": "Entrada Liberada",
     "delay": "0.1s"
   }
